@@ -1,0 +1,11 @@
+ui_print("");
+ui_print("╔═════════════════════════");
+ui_print("║  MIUI12.5 21.1.6 AbhiX_ROG_Edition  ");
+ui_print("║  team: Belief Team");
+ui_print("║  model: Redmi Note 4x");
+ui_print("║  model code: mido");
+ui_print("║  android version: 10.0");
+ui_print("║  developer: AbhiX Shakya");
+ui_print("║  arranger: GTYLCY");
+ui_print("╚═════════════════════════");
+ui_print("");
